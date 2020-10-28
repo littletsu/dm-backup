@@ -1,0 +1,5 @@
+*.json
+!package.json
+!package-lock.json
+*.html
+node_modules
